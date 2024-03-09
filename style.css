@@ -262,7 +262,7 @@ a{
   transition: .5=8s;
 }
 .work-info> .work-find> a:hover{
-  color: #1DA1F3;
+  color: #FCE803;
   transition: .5s;
 }
 
@@ -514,20 +514,34 @@ a{
   position: relative;
   display: flex;
   float: right;
-  bottom: 100px;
+  bottom: 18vh;
 }
 
-.website-template, .hospital_image{
+.hospital_image{
   position: absolute;
   display: flex;
   top: 0;
   right: 0;
   margin-right: 150px;
   max-width: auto;
-  height: 250px;
+  height: 220px;
   border-radius: 5px;
   cursor: pointer;
 }
+
+.personal_image{
+  position: absolute;
+  display: flex;
+
+  top: 0;
+  right: 0;
+  margin-right: 150px;
+  max-width: auto;
+  height: 220px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 
 /*Live and Source Code button*/
 
@@ -592,6 +606,7 @@ a{
 .button_git{
   position: relative;
   gap: 100px;
+  margin-bottom: 15vh;
 }
 
 .source_code {
@@ -669,7 +684,7 @@ a{
 }
 
 .footer-bar > .footer-container > a:hover{
-  color: #1DA1F3;
+  color: #FCE803;
 }
 
 /*Header Page*/

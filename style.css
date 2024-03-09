@@ -154,6 +154,7 @@ a{
 .button{
   position: relative;
   padding: 120px 0px;
+  margin-left: -5vh;
 }
 
 .download-button {
@@ -248,7 +249,7 @@ a{
   display: flex;
   margin-top: -17vh;
   list-style: none;
-  margin-left: 200px;
+  margin-left: 12vh;
 }
 
 .work-find{
@@ -272,7 +273,7 @@ a{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 5vh;
+  margin-top: 19vh;
 }
 
 .information-about-me > h2{
@@ -280,7 +281,7 @@ a{
   background-color: #FCE803;
   border-radius: 6px;
   padding: 7px;
-  margin-top: 13px;
+  margin-top: -15vh;
   margin-bottom: 50px;
   box-shadow: 0px 0px 17px 3px rgba(252,232,3,0.59);
 }
@@ -743,6 +744,7 @@ a{
   .button{
     position: absolute;
     padding: 30px 0px;
+    margin-left: 1px;
   }
 
   .download-button {
@@ -759,7 +761,7 @@ a{
   .work-info {
     margin-top: 30px;
     display: flex;
-    margin-left: 100px;
+    margin-left: 12vh;
     text-align: center;
   }
 
@@ -843,7 +845,7 @@ a{
   }
 
   .about-me-title{
-  margin-top: 50px;
+  margin-top: 10vh;
   width: 50%;
   margin-left: auto;
   text-align: center;

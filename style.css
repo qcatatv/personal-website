@@ -65,7 +65,7 @@ a{
   align-items: center;
   z-index: 100;
   background-color: #ffff;
-  margin-top: -10vh;
+  top: 0;
   transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 
